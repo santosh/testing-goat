@@ -122,3 +122,5 @@ dmypy.json
 ### Python ###
 # VSCode files
 .vscode/tags
+
+/static
